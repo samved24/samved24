@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/siddhantankar18/" target="_blank">
+  <a href="https://www.linkedin.com/in/samved24/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -26,12 +26,12 @@
 
 ###
 
-<p align="left">I'm Siddhant, from Pune, India<br>
+<p align="left">I'm Samved, from Pune, India<br>
   <br>
 - 🌱 I’m currently learning data analytics and machine learning.<br>
 - 👯 I’m looking to collaborate on open source projects.<br>
 - 💬 Ask me about anything related to coding and data analysis.<br>
-- 📫 How to reach me siddhantankar@gmail.com</p><br>
+- 📫 How to reach me samved24@gmail.com</p><br>
 
 ###
 
