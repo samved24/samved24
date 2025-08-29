@@ -13,7 +13,7 @@ const Samved = {
     contact: ["samved24@gmail.com"],
     portfolio: ["https://xyz.netlify.app"],
         funFact: {
-            secret: ["I freaking love music", "chess", "dogs"],
+            secret: ["Aah love Running", "Motorcycles", "W8s"],
         }        
     }
 };
