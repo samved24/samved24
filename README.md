@@ -9,17 +9,17 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 ```javascript
 const Samved = {
     pronouns: "he" | "him",
-    location: ["Pune, India"],
+    location: ["London, England"],
     contact: ["samved24@gmail.com"],
-    portfolio: ["https://xyz.netlify.app"],
+    portfolio: ["https://samved24.netlify.app"],
         funFact: {
-            secret: ["Aah love Running", "Motorcycles", "W8s"],
+            secret: ["Aah love, Running", "Motorcycles", "W8s"],
         }        
     }
 };
 ```
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
-<h3 align="center">Tech Stack :</h3>
+<h3 align="center">Tech Stack I've used so far (Limited to Github only) :</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
@@ -39,7 +39,7 @@ const Samved = {
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
 
-<h2 align="center">Let's Connect :coffee:</h2></a>
+<h2 align="center">Let's Catch Up, Woohoo :coffee:</h2></a>
 <p align="center">
 	<a href="https://github.com/samved24"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/samved24/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
